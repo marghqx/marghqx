@@ -3,43 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <title>Strona startowa</title>
     <style>
-
-        h1 {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: 'Montserrat', sans-serif;
+        background-color: #cce5ff;
+        margin: 0;
+        color: #333;
+    }
+    .container {
+        background-color: #ffffff;
+        padding: 30px;
+        max-width: 500px;
+        width: 100%;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+    h1 {
+            font-size: 28px;
+            color: #333;
             margin-bottom: 30px;
         }
 
-        .section {
-            margin-bottom: 20px;
-            width: 100%;
-            max-width: 500px; 
-            text-align: left;
-        }
+    .section {
+        text-align: center;
+    }
 
-        h2 {
-            margin-bottom: 10px;
-        }
-
-        p {
-            margin: 5px 0;
-        }
     </style>
 </head>
 <body>
 
-    <h1>Marta Czarnecka</h1>
+    <div class="container">
+        <h1>Marta Czarnecka</h1>
 
-    <div class="section">
-        <h2>Strony z użyciem tabeli</h2>
-        <p>Strona z podziałem tekstu jest <a href="subpage1.html">tutaj</a>.</p>
-        <p>Strona z formularzem jest <a href="subpage2.html">tutaj</a>.</p>
-    </div>
-
-    <div class="section">
-        <h2>Strony z użyciem CSS</h2>
-        <p>Strona z podziałem tekstu jest <a href="subpage3.html">tutaj</a>.</p>
-        <p>Strona z formularzem jest <a href="subpage4.html">tutaj</a>.</p>
+        <div class="section">
+            <p><a href="subpage1.html">Podział tekstu - tabela</a></p>
+            <p><a href="subpage2.html">Formularz - tabela</a></p>
+            <p><a href="subpage3.html">Podział tekstu - CSS</a></p>
+            <p><a href="subpage4.html">Formularz - CSS</a></p>
+            <p><a href="calculator.html">Kalkulator</a></p>
+        </div>
     </div>
 
 </body>

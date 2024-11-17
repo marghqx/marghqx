@@ -1,9 +1,8 @@
 body {
-    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #00695c;  /* Ciemny turkus */
-    color: #ffffff;  /* Biały tekst dla kontrastu */
+    background-color: #00695c;  
+    color: #ffffff;  
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,8 +11,8 @@ body {
 }
 
 .form-container {
-    width: 80%;  /* Formularz szerszy */
-    max-width: 600px;  /* Większa szerokość */
+    width: 80%;  
+    max-width: 600px;  
     background-color: #ffffff;
     padding: 25px;
     border-radius: 15px;
@@ -21,7 +20,7 @@ body {
     box-sizing: border-box;
     margin-top: 20px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: auto;  /* Formularz będzie krótszy */
+    height: auto;  
 }
 
 .form-container:hover {
@@ -35,7 +34,7 @@ body {
 
 .form-header h2 {
     font-size: 1.8rem;
-    color: #00695c;  /* Zmieniono kolor nagłówka na turkusowy */
+    color: #00695c; 
 }
 
 .form-row {
@@ -47,8 +46,7 @@ body {
 .form-row label {
     margin-bottom: 8px;
     font-weight: 600;
-    color: #00695c;  /* Kolor etykiet pasujący do tła */
-}
+    color: #00695c;  }
 
 .form-row input,
 .form-row select {
@@ -81,8 +79,7 @@ body {
 
 .back-link a:hover {
     text-decoration: underline;
-    color: #80cbc4;  /* Jaśniejszy turkus po najechaniu */
-}
+    color: #80cbc4;  }
 
 .form-footer {
     text-align: center;
@@ -90,7 +87,7 @@ body {
 }
 
 .form-footer button {
-    background-color: #00796b;  /* Przycisk w ciemniejszym turkusie */
+    background-color: #00796b;  
     color: #ffffff;
     border: none;
     padding: 12px 25px;
@@ -102,6 +99,6 @@ body {
 }
 
 .form-footer button:hover {
-    background-color: #004d40;  /* Ciemniejszy turkus po najechaniu */
+    background-color: #004d40;  
     box-shadow: 0 5px 10px rgba(0, 77, 64, 0.3);
 }

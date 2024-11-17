@@ -14,7 +14,7 @@ function Validate() {
 
     var nameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź]*$/;
     var surnameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
-    var passwordFormat = /^(?=.*[A-ZĄĆĘŁŃÓŚŻŹ])(?=.*[a-ząćęłńóśżź])(?=.*[0-9])(?=.*[!@#$%^&*(),.?":{}|<>])[A-Za-z0-9!@#$%^&*(),.?":{}|<>ąćęłńóśżź]{13,}$/;
+    var passwordFormat = /^(?=.*[A-ZĄĆĘŁŃÓŚŻŹ])(?=.*[a-ząćęłńóśżź])(?=.*[0-9])(?=.*[!@#$%^&*(),.?":{}|<>])[A-Za-z0-9!@#$%^&*(),.?":{}|<>ąćęłńóśżź]{8,}$/;
     var houseFormat = /^[0-9]+[a-zA-Z]*$/;
     var cityFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
     var phoneFormat = /^[0-9]{3}[\s]?[0-9]{3}[\s]?[0-9]{3}$/;
@@ -37,7 +37,7 @@ function Validate() {
     if (dataUrodzenia === "") {
         errors.push("Data urodzenia jest wymagana");}
     if (!passwordFormat.test(haslo)){
-        errors.push("Hasło musi zawierać co najmniej 13 znaków, w tym przynajmniej jedną wielką literę, jedną małą literę, jedną cyfrę oraz znak specjalny");}
+        errors.push("Hasło musi zawierać co najmniej 8 znaków, w tym przynajmniej jedną wielką literę, jedną małą literę, jedną cyfrę oraz znak specjalny");}
     if (!cityFormat.test(miasto)){
         errors.push("Miasto musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (!countryFormat.test(panstwo)){

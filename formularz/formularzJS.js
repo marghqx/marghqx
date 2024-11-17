@@ -1,16 +1,18 @@
 function Validate() {
     var errors = [];
 
-    var imie = document.forms["form"]["name"].value;
-    var nazwisko = document.forms["form"]["surname"].value;
-    var ulica = document.forms["form"]["street"].value;
-    var dom = document.forms["form"]["house"].value;
-    var numer = document.forms["form"]["apartment"].value;
-    var telefon = document.forms["form"]["phone"].value;
-    var dataUrodzenia = document.forms["form"]["date"].value;
-    var haslo = document.forms["form"]["password"].value;
-    var miasto = document.forms["form"]["city"].value;
-    var panstwo = document.forms["form"]["country"].value;
+    var imie = document.getElementById('name').value;
+    var nazwisko = document.getElementById('surname').value;
+    var ulica = document.getElementById('street').value;
+    var dom = document.getElementById('house').value;
+    var numer = document.getElementById('apartment').value;
+    var telefon = document.getElementById('phone').value;
+    var dataUrodzenia = document.getElementById('date').value;
+    var haslo = document.getElementById('password').value;
+    var miasto = document.getElementById('city').value;
+    var panstwo = document.getElementById('country').value;
+
+
 
     var nameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź]*$/;
     var surnameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;

@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #00695c;  
+    background-color: #ffffff;  
     color: #ffffff;  
     display: flex;
     justify-content: center;
@@ -15,17 +15,11 @@ body {
     max-width: 600px;  
     background-color: #ffffff;
     padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
     margin-top: 20px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     height: auto;  
 }
 
-.form-container:hover {
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
-}
 
 .form-header {
     text-align: center;

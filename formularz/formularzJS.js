@@ -1,6 +1,17 @@
 function Validate() {
     var errors = [];
 
+    var imie = document.forms["form"]["name"].value;
+    var nazwisko = document.forms["form"]["surname"].value;
+    var ulica = document.forms["form"]["street"].value;
+    var dom = document.forms["form"]["house"].value;
+    var numer = document.forms["form"]["apartment"].value;
+    var telefon = document.forms["form"]["phone"].value;
+    var dataUrodzenia = document.forms["form"]["date"].value;
+    var haslo = document.forms["form"]["password"].value;
+    var miasto = document.forms["form"]["city"].value;
+    var panstwo = document.forms["form"]["country"].value;
+
     var nameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź]*$/;
     var surnameFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
     var passwordFormat = /^(?=.*[A-ZĄĆĘŁŃÓŚŻŹ])(?=.*[a-ząćęłńóśżź])(?=.*[0-9])(?=.*[!@#$%^&*(),.?":{}|<>])[A-Za-z0-9!@#$%^&*(),.?":{}|<>ąćęłńóśżź]{13,}$/;
@@ -10,63 +21,29 @@ function Validate() {
     var countryFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
     var streetFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź\s\-]*$/;
     var apartmentFormat = /^[1-9][0-9]*$/;
-    var allowedGenders = ["m", "k", "i"];
-    
-    var imie = document.forms["form"]["name"].value;
+
     if (!nameFormat.test(imie)){
-        errors.push("Błąd w polu \"imię\": musi zawierać tylko litery, w tym pierwszą dużą");
-    }
-
-    var nazwisko = document.forms["form"]["surname"].value;
+        errors.push("Imię musi zawierać tylko litery, w tym pierwszą dużą");}
     if (!surnameFormat.test(nazwisko)){
-        errors.push("Błąd w polu \"nazwisko\": musi zawierać tylko litery (ewentualnie odzielone spacją lub myślnikiem), w tym pierwszą dużą");
-    }
-
-    var ulica = document.forms["form"]["street"].value;
+        errors.push("Nazwisko musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (!streetFormat.test(ulica)){
-        errors.push("Błąd w polu \"ulica\": musi zawierać tylko litery, w tym pierwszą dużą");
-    }
-
-    var dom = document.forms["form"]["house"].value;
+        errors.push("Ulica musi zawierać tylko litery, w tym pierwszą dużą");}
     if (!houseFormat.test(dom)){
-        errors.push("Błąd w polu \"dom\": musi zawierać liczbę plus (opcjonalnie) litery");
-    }
-    var numer = document.forms["form"]["apartment"].value;
+        errors.push("Numer domu musi zawierać liczbę i/lub litery");}
     if (!apartmentFormat.test(numer) && numer){
-        errors.push("Błąd w polu \"mieszkanie\": numer mieszkania musi składać się z dodatnich cyfr");
-    }
-    
-    var telefon = document.forms["form"]["phone"].value;
+        errors.push("Numer mieszkania musi składać się z dodatnich cyfr");}
     if (!phoneFormat.test(telefon)){
-        errors.push("Błąd w polu \"telefon\": musi być w formacie: XXX XXX XXX");
-    }
-
-    var dataUrodzenia = document.forms["form"]["date"].value;
+        errors.push("Telefon musi być w formacie 123 456 789");}
     if (dataUrodzenia === "") {
-        errors.push("Błąd w polu \"data urodzenia\": to pole jest wymagane");
-    }
-   
-    var haslo = document.forms["form"]["password"].value;
+        errors.push("Data urodzenia jest wymagana");}
     if (!passwordFormat.test(haslo)){
-        errors.push("Błąd w polu \"hasło\": musi zawierać co najmniej 13 znaków, w tym przynajmniej jedną wielką literę, jedną małą literę, jedną cyfrę oraz znak specjoalny");
-    }
-    
-    
-    var miasto = document.forms["form"]["city"].value;
+        errors.push("Hasło musi zawierać co najmniej 13 znaków, w tym przynajmniej jedną wielką literę, jedną małą literę, jedną cyfrę oraz znak specjalny");}
     if (!cityFormat.test(miasto)){
-        errors.push("Błąd w polu \"miasto\": musi zawierać tylko litery (ewentualnie odzielone spacją lub myślnikiem), w tym pierwszą dużą");
-    }
-    
-    
-    var panstwo = document.forms["form"]["country"].value;
+        errors.push("Miasto musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (!countryFormat.test(panstwo)){
-        errors.push("Błąd w polu \"państwo\": musi zawierać tylko litery (ewentualnie odzielone spacją lub myślnikiem), w tym pierwszą dużą");
-    }
-
+        errors.push("Państwo musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (errors.length>0) {
         alert("Nie udało się kontynuować, wystąpiły błędy:\n\n" + errors.join("\n\n"));
-        return false
-    }
-    
+        return false}
     return true
 }

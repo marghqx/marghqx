@@ -1,85 +1,114 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7;
-    color: #333;
+    background-color: #00695c;  /* Ciemny turkus */
+    color: #ffffff;  /* Biały tekst dla kontrastu */
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Zmiana na min-height */
+    min-height: 100vh;
     box-sizing: border-box;
 }
+
 .form-container {
-    width: 90%;
-    max-width: 500px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;  /* Formularz szerszy */
+    max-width: 600px;  /* Większa szerokość */
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
-    margin-top: 20px; /* Dodano dodatkowy margines, aby formularz był niżej */
+    margin-top: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: auto;  /* Formularz będzie krótszy */
 }
+
+.form-container:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.15);
+}
+
 .form-header {
     text-align: center;
     margin-bottom: 20px;
 }
+
 .form-header h2 {
-    font-size: 1.5rem;
-    color: #444;
+    font-size: 1.8rem;
+    color: #00695c;  /* Zmieniono kolor nagłówka na turkusowy */
 }
+
 .form-row {
     display: flex;
     flex-direction: column;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
+
 .form-row label {
-    margin-bottom: 5px;
-    font-weight: bold;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #00695c;  /* Kolor etykiet pasujący do tła */
 }
+
 .form-row input,
 .form-row select {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    padding: 12px;
+    border: 1px solid #bdbdbd;
+    border-radius: 8px;
     font-size: 1rem;
     width: 100%;
     box-sizing: border-box;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
+
 .form-row input:focus,
 .form-row select:focus {
-    border-color: #007bff;
+    border-color: #00796b;  /* Zmieniono kolor fokusu na ciemniejszy turkus */
     outline: none;
-    box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+    box-shadow: 0 0 6px rgba(0, 121, 107, 0.4);
 }
+
 .form-row input[type="checkbox"] {
     width: auto;
 }
+
 .back-link {
     text-align: center;
     margin-bottom: 20px;
 }
+
 .back-link a {
     text-decoration: none;
-    color: #007bff;
+    color: #ffffff;
     font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
 }
+
 .back-link a:hover {
     text-decoration: underline;
+    color: #80cbc4;  /* Jaśniejszy turkus po najechaniu */
 }
+
 .form-footer {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 25px;
 }
+
 .form-footer button {
-    background-color: #007bff;
-    color: #fff;
+    background-color: #00796b;  /* Przycisk w ciemniejszym turkusie */
+    color: #ffffff;
     border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
+    padding: 12px 25px;
+    border-radius: 8px;
     font-size: 1rem;
+    font-weight: 600;
     cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
+
 .form-footer button:hover {
-    background-color: #0056b3;
+    background-color: #004d40;  /* Ciemniejszy turkus po najechaniu */
+    box-shadow: 0 5px 10px rgba(0, 77, 64, 0.3);
 }

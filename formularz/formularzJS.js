@@ -21,7 +21,7 @@ function Validate() {
     var cityFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
     var phoneFormat = /^[0-9]{3}[\s]?[0-9]{3}[\s]?[0-9]{3}$/;
     var countryFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
-    var var streetFormat = /^[a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9][a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9\s\-]*$/;
+    var streetFormat = /^[a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9][a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9\s\-]*$/;
     var apartmentFormat = /^[1-9][0-9]*$/;
 
     if (!nameFormat.test(imie)){
@@ -29,7 +29,7 @@ function Validate() {
     if (!surnameFormat.test(nazwisko)){
         errors.push("Nazwisko musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (!streetFormat.test(ulica)){
-        errors.push("Ulica musi zawierać tylko liczby i litery, w tym pierwszą dużą");}
+        errors.push("Ulica musi zawierać tylko liczby i litery");}
     if (!houseFormat.test(dom)){
         errors.push("Numer domu musi zawierać liczbę i/lub litery");}
     if (!apartmentFormat.test(numer) && numer){

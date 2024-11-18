@@ -21,7 +21,7 @@ function Validate() {
     var cityFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
     var phoneFormat = /^[0-9]{3}[\s]?[0-9]{3}[\s]?[0-9]{3}$/;
     var countryFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][A-ZĄĆĘŁŃÓŚŻŹa-ząćęłńóśżź \-]*$/;
-    var streetFormat = /^[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź\s\-0-9]*$/;
+    var var streetFormat = /^[a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9][a-ząćęłńóśżźA-ZĄĆĘŁŃÓŚŻŹ0-9\s\-]*$/;
     var apartmentFormat = /^[1-9][0-9]*$/;
 
     if (!nameFormat.test(imie)){

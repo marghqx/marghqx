@@ -29,7 +29,7 @@ function Validate() {
     if (!surnameFormat.test(nazwisko)){
         errors.push("Nazwisko musi zawierać tylko litery i/lub spacje/myślniki, pierwsza litera musi być wielka");}
     if (!streetFormat.test(ulica)){
-        errors.push("Ulica musi zawierać tylko litery, w tym pierwszą dużą");}
+        errors.push("Ulica musi zawierać tylko liczby i litery, w tym pierwszą dużą");}
     if (!houseFormat.test(dom)){
         errors.push("Numer domu musi zawierać liczbę i/lub litery");}
     if (!apartmentFormat.test(numer) && numer){

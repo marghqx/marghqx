@@ -49,7 +49,7 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
 <body>
 
     <div class="container">
-        <h1>Marta Czarnecka</h1>
+        <h1>Marta Czarnecka</h1> 
 
         <div class="section">
             <p><a href="subpage1.html">Podział tekstu - tabela</a></p>

@@ -1,3 +1,12 @@
+<?php
+session_start();
+if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
+    header('Location: login.php');
+    exit();
+}
+?>
+
+
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -47,8 +56,9 @@
             <p><a href="subpage2.html">Formularz - tabela</a></p>
             <p><a href="subpage3.html">Podział tekstu - CSS</a></p>
             <p><a href="subpage4.html">Formularz - CSS</a></p>
-            <p><a href="kalkulator/calculator.html">Kalkulator</a></p>
-            <p><a href="formularz/formularz.html">Formularz z walidacją</a></p>
+            <p><a href="calculator.html">Kalkulator</a></p>
+            <p><a href="formularz.html">Formularz z walidacją</a></p>
+            <p><a href="profile.php">Moje dane</a></p>
         </div>
     </div>
 

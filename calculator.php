@@ -1,11 +1,20 @@
+<?php
+session_start();
+if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
+    header('Location: login.php');
+    exit();
+}
+?>
+
+
 <!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kalkulator</title>
-    <link rel="stylesheet" href="calculatorcss.css">
-    <script src="calculatorjs.js"></script>
+    <link rel="stylesheet" href="assets/css/calculatorcss.css">
+    <script src="assets/js/calculatorjs.js"></script>
 </head>
 <body>
     <div class="kalkulator">

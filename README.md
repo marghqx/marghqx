@@ -1,5 +1,5 @@
 
-##<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
  
@@ -9,7 +9,7 @@
 🚀 Passionate about programming, game design, software development, AI, and web technologies.
  
 
-💡 Always learning and exploring new technologies  
+💡 Always learning and exploring new technologies
  
 </p>
  

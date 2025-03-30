@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
- 
----
 <h1 align="center">👩‍💻 Hey, I'm Marta!</h1>
  
 

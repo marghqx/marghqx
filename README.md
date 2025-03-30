@@ -13,7 +13,7 @@
 
 ## 🌿 About Me  
 
-Hey there!👋 I'm Marta, a Computer Science student interested in technology and personal growth. I'm looking for opportunities to gain practical experience and improve my skills in software development. I enjoy working on applications, analyzing data, and learning new programming languages. I'm always open to new exciting challenges and collaborating on innovative projects.
+Hey there!👋 I'm Marta, a Computer Science student at <b>Warsaw University of Life Sciences</b> 🎓 interested in technology and personal growth. I'm looking for opportunities to gain practical experience and improve my skills in software development. I enjoy working on applications, analyzing data, and learning new programming languages. I'm always open to new exciting challenges and collaborating on innovative projects.
 
 Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes 🐇 — whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills . I enjoy tinkering with code, analyzing data, and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
 

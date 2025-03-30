@@ -19,7 +19,6 @@ Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often
 
 If you have something interesting – don't hesitate to reach out! ✉️
 
----
 
 ## 🔧 Skills  
 
@@ -35,7 +34,7 @@ If you have something interesting – don't hesitate to reach out! ✉️
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 
 
 </p>
@@ -43,7 +42,9 @@ If you have something interesting – don't hesitate to reach out! ✉️
 ### 🛠 Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 

@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+<h1 align="center">👩‍💻 Hey, I'm Marta!</h1>
+
 <p align="center">
  
 🎓 Computer Science student at <b>Warsaw University of Life Sciences</b>  

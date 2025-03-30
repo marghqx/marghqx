@@ -8,7 +8,6 @@
 
 <p align="center">
  
-
 🎓 Computer Science student at <b>Warsaw University of Life Sciences</b>  
  
 
@@ -17,14 +16,11 @@
 
 💡 Always learning and exploring new technologies  
  
-
 </p>
  
----
-
 ## 🌿 About Me  
 
-Hey there!👋 I'm Marta, a Computer Science student at <b>Warsaw University of Life Sciences</b> 🎓 with a curiosity that often leads me down random rabbit holes 🐇 — whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills . I enjoy tinkering with code, analyzing data, and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
+Hey there!👋 I'm a student with a curiosity that often leads me down random rabbit holes 🐇 — whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills . I enjoy tinkering with code, analyzing data, and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
 
 If you have something interesting – don't hesitate to reach out! ✉️
 

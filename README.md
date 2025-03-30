@@ -1,24 +1,28 @@
 ## Hi there 👋
 
-<h1 align="center">👩‍💻 Cześć, jestem [Twoje Imię]!</h1>
+
+<h1 align="center">👩‍💻 Hey, I'm [Your Name]!</h1>
 
 <p align="center">
-🎓 Studentka informatyki na <b>Nazwa Uczelni</b>  
-🚀 Pasjonuję się programowaniem, AI i rozwojem webowym  
-💡 Ciągle się uczę i rozwijam swoje umiejętności  
+🎓 Computer Science student at <b>[Your University]</b>  
+🚀 Passionate about programming, AI, and web development  
+💡 Always learning and exploring new technologies  
 </p>
 
 ---
 
-## 🌿 O mnie  
-Hej! 👋 Jestem [Twoje Imię], studentką informatyki z pasją do technologii i programowania. Uwielbiam tworzyć oprogramowanie, analizować dane i poznawać nowe technologie.  
-Szukam inspirujących wyzwań oraz możliwości współpracy przy ciekawych projektach. Jeśli masz coś, co mogłoby mnie zainteresować – nie wahaj się napisać! ✉️
+## 🌿 About Me  
+Hey there! 👋 I'm [Your Name], a Computer Science student with a passion for technology and software development.  
+I love building applications, analyzing data, and diving into new programming languages.  
+I'm always looking for exciting challenges and opportunities to collaborate on innovative projects.  
+
+If you have something interesting – don't hesitate to reach out! ✉️
 
 ---
 
-## 🔧 Umiejętności  
+## 🔧 Skills  
 
-### 📌 Technologie, z którymi pracuję  
+### 📌 Technologies I work with  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,7 +32,7 @@ Szukam inspirujących wyzwań oraz możliwości współpracy przy ciekawych proj
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-### 🛠 Narzędzia i technologie  
+### 🛠 Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -37,24 +41,25 @@ Szukam inspirujących wyzwań oraz możliwości współpracy przy ciekawych proj
 
 ---
 
-## 🚀 Moje projekty  
-📌 **[Projekt 1](https://github.com/TwojGitHub/NazwaProjektu1)** – Opis projektu w 1-2 zdaniach  
-📌 **[Projekt 2](https://github.com/TwojGitHub/NazwaProjektu2)** – Opis projektu w 1-2 zdaniach  
-📌 **[Projekt 3](https://github.com/TwojGitHub/NazwaProjektu3)** – Opis projektu w 1-2 zdaniach  
+## 🚀 My Projects  
+📌 **[Project 1](https://github.com/YourGitHub/Project1)** – Short description of the project  
+📌 **[Project 2](https://github.com/YourGitHub/Project2)** – Short description of the project  
+📌 **[Project 3](https://github.com/YourGitHub/Project3)** – Short description of the project  
 
-Więcej znajdziesz na moim profilu GitHub! 🌟  
-
----
-
-## 📬 Jak się ze mną skontaktować?  
-📧 Email: **twojemail@example.com**  
-💼 LinkedIn: **[Profil](https://linkedin.com/in/twojprofil)**  
-🌐 Portfolio: **[twojastrona.dev](https://twojastrona.dev)**  
+You can find more on my GitHub profile! 🌟  
 
 ---
 
-<h3 align="center">🚀 Nie wahaj się napisać! 🚀</h3>  
-<p align="center">Zawsze otwarta na ciekawe projekty, współpracę i nowe wyzwania! 💡</p>
+## 📬 How to Reach Me?  
+📧 Email: **youremail@example.com**  
+💼 LinkedIn: **[Profile](https://linkedin.com/in/yourprofile)**  
+🌐 Portfolio: **[yourwebsite.dev](https://yourwebsite.dev)**  
+
+---
+
+<h3 align="center">🚀 Don't hesitate to reach out! 🚀</h3>  
+<p align="center">Always open to exciting projects, collaborations, and new challenges! 💡</p>
+
 
 <!--
 **marghqx/marghqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

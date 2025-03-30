@@ -1,20 +1,21 @@
 ## Hi there 👋
 
 
-<h1 align="center">👩‍💻 Hey, I'm [Your Name]!</h1>
+<h1 align="center">👩‍💻 Hey, I'm Marta!</h1>
 
 <p align="center">
-🎓 Computer Science student at <b>[Your University]</b>  
-🚀 Passionate about programming, AI, and web development  
+🎓 Computer Science student at <b>Warsaw University of Life Sciences</b>  
+🚀 Passionate about programming, game design, software development, AI, and web technologies.
 💡 Always learning and exploring new technologies  
 </p>
 
 ---
 
 ## 🌿 About Me  
-Hey there! 👋 I'm [Your Name], a Computer Science student with a passion for technology and software development.  
-I love building applications, analyzing data, and diving into new programming languages.  
-I'm always looking for exciting challenges and opportunities to collaborate on innovative projects.  
+
+Hey there!👋 I'm Marta, a Computer Science student interested in technology and personal growth. I'm looking for opportunities to gain practical experience and improve my skills in software development. I enjoy working on applications, analyzing data, and learning new programming languages. I'm always open to new exciting challenges and collaborating on innovative projects.
+
+Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes 🐇 — whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills . I enjoy tinkering with code, analyzing data, and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
 
 If you have something interesting – don't hesitate to reach out! ✉️
 
@@ -29,7 +30,14 @@ If you have something interesting – don't hesitate to reach out! ✉️
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
 </p>
 
 ### 🛠 Tools & Technologies  

@@ -9,7 +9,7 @@
 🚀 Looking for opportunities to gain practical experience
  
 
-📫 Reach me at martaczarnecka107@gmail.com
+📫 Reach me at marta.czarnecka107@gmail.com
  
 </p>
  

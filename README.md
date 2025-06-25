@@ -12,14 +12,16 @@
  
 ##  About Me  
 
-Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes - whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills. I enjoy game design, tinkering with code, analyzing data, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!). I'm always open to a challenge and eager to collaborate on innovative projects :)
+Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes, whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills. I enjoy game design, tinkering with code, analyzing data, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!). I'm always open to a challenge and eager to collaborate on innovative projects :)
 
 If you have something interesting - don't hesitate to reach out! 
 
 ## 🚀 My Projects  
-📌 **[Project 1](https://github.com/marghqx/Triangle-Detection-in-Graphs)** - An algorithmic solution for detecting triangles (3-node cycles) within graphs, useful for network analysis and graph theory applications, implemented with a focus on efficiency and accuracy  
-📌 **[Project 2](https://github.com/marghqx/Lakers-Player-Ranking-Analysis)** - A data analysis project that evaluates and ranks Los Angeles Lakers players based on various performance metrics, utilizing statistical methods and visualizations to identify key contributors  
-📌 **[Project 3](https://github.com/marghqx/Assembly-Cube-Root-Calculator)** - A low-level program written in assembly language that calculates the cube root of a given number efficiently, demonstrating basic arithmetic and algorithm implementation in assembly  
+📌 **[Project 1](https://github.com/marghqx/Triangle-Detection-in-Graphs)** - This project implements an algorithm to detect triangles three node cycles-in graphs, an important problem in graph theory and network analysis. Identifying triangles helps in understanding the structure and clustering within networks. The solution is optimized for accuracy and efficiency, and can be applied to various types of graphs, aiding research in social networks, biological networks, and other complex systems
+
+📌 **[Project 2](https://github.com/marghqx/Lakers-Player-Ranking-Analysis)** - This project involves data analysis and visualization of Los Angeles Lakers players' performance. Using a variety of statistical metrics such as points, assists, rebounds, and efficiency ratings, it ranks players to provide insights into their contributions to the team. The analysis is designed to help fans and analysts better understand player impact through quantitative data, supported by charts and graphs for clear interpretation
+
+📌 **[Project 3](https://github.com/marghqx/Assembly-Cube-Root-Calculator)** - This project is an assembly language program that calculates the cube root of an input number. It showcases the use of low-level programming techniques and efficient arithmetic operations directly on the processor level. The program demonstrates how to implement mathematical algorithms in assembly, managing registers and memory to perform precise calculations without relying on high-level language functions  
 
 ## 🔧 Skills  
 

@@ -16,6 +16,10 @@ Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often
 
 If you have something interesting - don't hesitate to reach out! 
 
+## 🚀 My Projects  
+📌 **[Project 1](https://github.com/marghqx/Triangle-Detection-in-Graphs)** - An algorithmic solution for detecting triangles (3-node cycles) within graphs, useful for network analysis and graph theory applications, implemented with a focus on efficiency and accuracy /br
+📌 **[Project 2](https://github.com/marghqx/Lakers-Player-Ranking-Analysis)** - A data analysis project that evaluates and ranks Los Angeles Lakers players based on various performance metrics, utilizing statistical methods and visualizations to identify key contributors /br
+📌 **[Project 3](https://github.com/marghqx/Assembly-Cube-Root-Calculator)** - A low-level program written in assembly language that calculates the cube root of a given number efficiently, demonstrating basic arithmetic and algorithm implementation in assembly /br
 
 ## 🔧 Skills  
 
@@ -44,9 +48,3 @@ If you have something interesting - don't hesitate to reach out!
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-
-## 🚀 My Projects  
-📌 **[Project 1](https://github.com/marghqx/Triangle-Detection-in-Graphs)** - An algorithmic solution for detecting triangles (3-node cycles) within graphs, useful for network analysis and graph theory applications, implemented with a focus on efficiency and accuracy.
-📌 **[Project 2](https://github.com/marghqx/Lakers-Player-Ranking-Analysis)** - A data analysis project that evaluates and ranks Los Angeles Lakers players based on various performance metrics, utilizing statistical methods and visualizations to identify key contributors.  
-📌 **[Project 3](https://github.com/marghqx/Assembly-Cube-Root-Calculator)** - A low-level program written in assembly language that calculates the cube root of a given number efficiently, demonstrating basic arithmetic and algorithm implementation in assembly   

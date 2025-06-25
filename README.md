@@ -13,11 +13,11 @@
  
 </p>
  
-## 🌿 About Me  
+##  About Me  
 
-Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes 🐇 — whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills . I enjoy tinkering with code, analyzing data, game design, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
+Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes 🐇 - whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills. I enjoy tinkering with code, analyzing data, game design, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
 
-If you have something interesting – don't hesitate to reach out! ✉️
+If you have something interesting - don't hesitate to reach out! ✉️
 
 
 ## 🔧 Skills  

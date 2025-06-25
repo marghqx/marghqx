@@ -1,6 +1,3 @@
-
-<h1 align="center">Hi there! 👋</h1>
-
 <p align="center">
  
 🎓 Computer Science student at <b>Warsaw University of Life Sciences</b>  
@@ -15,9 +12,9 @@
  
 ##  About Me  
 
-Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes 🐇 - whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills. I enjoy tinkering with code, analyzing data, game design, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!) 🔍. I'm always open to a challenge and eager to collaborate on innovative projects! 💡
+Hey there!👋 I'm Marta, a Computer Science student with a curiosity that often leads me down random rabbit holes - whether it's diving into code, breaking things, or just figuring out how stuff works. I'm looking for opportunities to gain practical experience and improve my software development skills. I enjoy game design, tinkering with code, analyzing data, software, web development and exploring new programming languages to see what breaks (and hopefully, fix it!). I'm always open to a challenge and eager to collaborate on innovative projects :)
 
-If you have something interesting - don't hesitate to reach out! ✉️
+If you have something interesting - don't hesitate to reach out! 
 
 
 ## 🔧 Skills  
@@ -39,7 +36,7 @@ If you have something interesting - don't hesitate to reach out! ✉️
 
 </p>
 
-### 🛠 Tools & Technologies  
+### 🛠 Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
@@ -50,6 +47,6 @@ If you have something interesting - don't hesitate to reach out! ✉️
 
 
 ## 🚀 My Projects  
-📌 **[Project 1](https://github.com/YourGitHub/Project1)** – Short description of the project  
-📌 **[Project 2](https://github.com/YourGitHub/Project2)** – Short description of the project  
-📌 **[Project 3](https://github.com/YourGitHub/Project3)** – Short description of the project  
+📌 **[Project 1](https://github.com/marghqx/Triangle-Detection-in-Graphs)** - An algorithmic solution for detecting triangles (3-node cycles) within graphs, useful for network analysis and graph theory applications, implemented with a focus on efficiency and accuracy.
+📌 **[Project 2](https://github.com/marghqx/Lakers-Player-Ranking-Analysis)** - A data analysis project that evaluates and ranks Los Angeles Lakers players based on various performance metrics, utilizing statistical methods and visualizations to identify key contributors.  
+📌 **[Project 3](https://github.com/marghqx/Assembly-Cube-Root-Calculator)** - A low-level program written in assembly language that calculates the cube root of a given number efficiently, demonstrating basic arithmetic and algorithm implementation in assembly   
